@@ -16,13 +16,21 @@ Size: Small to medium dataset
 Key Columns (example):
 
 - Departement
+- 
 -Frequence d'usage de l'outil
+
 -Etes-vous satisfait par l'outil ?
+
 -Combien de minute en moyenne vous avez optimise lors de depot du contenu ?
+
 -Est-ce que vous trouvez ce que vous voulez rapidement ?
+
 -A quel niveau l'interface est intuitive ?
+
 -Est-ce que cet outil a ameliore votre travail ?
+
 -Est-ce que la formation recu etait suffisante ?
+
 -Est-ce que le support technique est satisfaisant ? 
 
 🎯 Objectives

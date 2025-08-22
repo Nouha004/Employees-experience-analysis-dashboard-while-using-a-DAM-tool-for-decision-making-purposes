@@ -6,6 +6,7 @@ The goal is to gain insights into how employees interact with the DAM tool, iden
 The data for this project was collected via a Google Form survey distributed among employees.
 
 
+
 **🗂️ Dataset Information**
 Source: Google Form responses
 
@@ -34,6 +35,7 @@ Key Columns (example):
 -Est-ce que le support technique est satisfaisant ? 
 
 
+
 **🎯 Objectives**
 
 Understand employees' overall experience using the DAM tool.
@@ -43,6 +45,7 @@ Identify departments or roles facing usability challenges.
 Measure the perceived impact of the DAM tool on decision-making.
 
 Provide actionable insights through an interactive dashboard.
+
 
 
 **📊 Dashboard Features**
@@ -55,6 +58,7 @@ Frequency of usage across departments and roles.
 Correlation between tool usage and decision-making efficiency.
 
 Key pain points and suggestions for improvement.
+
 
 
 **🛠️ Tools & Technologies**

@@ -1,13 +1,13 @@
-**📌 Project Overview**
+# 📌 Project Overview
 
 This project focuses on analyzing employees' experience while using a Digital Asset Management (DAM) tool to support decision-making processes within an organization.
 The goal is to gain insights into how employees interact with the DAM tool, identify challenges, and measure its effectiveness in improving productivity and decision accuracy.
 
 The data for this project was collected via a Google Form survey distributed among employees.
+![Pizza Sales Dashboard](hospital_experience.png)
 
 
-
-**🗂️ Dataset Information**
+# 🗂️ Dataset Information
 
 Source: Google Form responses
 
@@ -37,7 +37,7 @@ Key Columns (example):
 
 
 
-**🎯 Objectives**
+# 🎯 Objectives
 
 Understand employees' overall experience using the DAM tool.
 
@@ -49,7 +49,7 @@ Provide actionable insights through an interactive dashboard.
 
 
 
-**📊 Dashboard Features**
+# 📊 Dashboard Features
 
 The dashboard was built using Power BI and includes:
 
@@ -63,7 +63,7 @@ Key pain points and suggestions for improvement.
 
 
 
-**🛠️ Tools & Technologies**
+# 🛠️ Tools & Technologies
 
 Data Collection: Google Forms
 

@@ -8,6 +8,7 @@ The data for this project was collected via a Google Form survey distributed amo
 
 
 **🗂️ Dataset Information**
+
 Source: Google Form responses
 
 Format: CSV / Excel
@@ -49,6 +50,7 @@ Provide actionable insights through an interactive dashboard.
 
 
 **📊 Dashboard Features**
+
 The dashboard was built using Power BI and includes:
 
 Overall satisfaction levels with the DAM tool.
@@ -62,6 +64,7 @@ Key pain points and suggestions for improvement.
 
 
 **🛠️ Tools & Technologies**
+
 Data Collection: Google Forms
 
 Data Cleaning & Transformation: Microsoft Excel / Power Query
